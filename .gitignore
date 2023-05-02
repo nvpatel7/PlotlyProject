@@ -1,6 +1,6 @@
-.png
-.docx
-.ipynb
-.csv
-.txt
-./.ipynb_checkpoints
+*.png
+*.docx
+*.ipynb
+*.csv
+*.txt
+*./.ipynb_checkpoints
