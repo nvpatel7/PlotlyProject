@@ -4,6 +4,7 @@ This is a project that shows the use of pandas and plotly libraries by using the
 ## Installation 
 
 In your command line clone this repo by typing or copy pasting following command: `https://github.com/nvpatel7/PlotlyProject.git`
+
 Make sure to have both pandas and plotly libraries installed using these commands:
 ```bash
     pip install pandas
